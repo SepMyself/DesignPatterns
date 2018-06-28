@@ -1,4 +1,4 @@
-package com.wh.Factory;
+package com.wh.SimpleFactory;
 
 public class SimpleFactory {
 }
