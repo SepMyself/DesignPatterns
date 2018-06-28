@@ -9,6 +9,6 @@ public class AmdMainboard implements IMainboard {
 
     @Override
     public void installCPU() {
-        System.out.println("AMD主板的CPU插槽孔数是: " + cpuHoles);
+        System.out.println("AMD 主板的CPU插槽孔数是: " + cpuHoles);
     }
 }
